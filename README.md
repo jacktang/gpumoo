@@ -1,1 +1,1 @@
-# pymoo-gpu
+# Multiple Objective Optimization Boost by GPU
